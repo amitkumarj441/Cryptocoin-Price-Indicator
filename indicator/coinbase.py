@@ -9,7 +9,7 @@ from .backend import Backend
 COINBASE_API_URL = 'https://api.coinbase.com/'
 COINBASE_URL = 'https://www.coinbase.com/'
 COINBASE_API_VERSION = 'v2'
-COINBASE_API_VERSION_DATE = '2017-10-04'
+COINBASE_API_VERSION_DATE = '2015-04-08'
 
 
 class Coinbase(Backend):
